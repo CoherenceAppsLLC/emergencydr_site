@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Coherence apps]]></title>
   <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/atom.xml" rel="self"/>
   <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/"/>
-  <updated>2014-08-16T11:00:39-07:00</updated>
+  <updated>2014-08-16T11:32:06-07:00</updated>
   <id>http://CoherenceAppsLLC.github.io/emergencydr_site/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Dr. Bill Gray]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
