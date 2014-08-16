@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/atom.xml" rel="self"/>
+  <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/"/>
+  <updated>2014-08-16T11:00:39-07:00</updated>
+  <id>http://CoherenceAppsLLC.github.io/emergencydr_site/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test page]]></title>
+    <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/blog/2014/08/16/test-page/"/>
+    <updated>2014-08-16T11:00:12-07:00</updated>
+    <id>http://CoherenceAppsLLC.github.io/emergencydr_site/blog/2014/08/16/test-page</id>
+    <content type="html"><![CDATA[<h3>Test page</h3>
+
+<p>Place holder for now.</p>
+]]></content>
+  </entry>
+  
+</feed>
