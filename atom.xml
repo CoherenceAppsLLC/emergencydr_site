@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Coherence apps]]></title>
-  <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/atom.xml" rel="self"/>
-  <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/"/>
-  <updated>2014-08-16T11:38:13-07:00</updated>
-  <id>http://CoherenceAppsLLC.github.io/emergencydr_site/</id>
+  <link href="http://www.emergencydr.org/atom.xml" rel="self"/>
+  <link href="http://www.emergencydr.org/"/>
+  <updated>2014-08-17T12:36:55-07:00</updated>
+  <id>http://www.emergencydr.org/</id>
   <author>
     <name><![CDATA[Dr. Bill Gray]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[test page]]></title>
-    <link href="http://CoherenceAppsLLC.github.io/emergencydr_site/blog/2014/08/16/test-page/"/>
+    <link href="http://www.emergencydr.org/blog/2014/08/16/test-page/"/>
     <updated>2014-08-16T11:00:12-07:00</updated>
-    <id>http://CoherenceAppsLLC.github.io/emergencydr_site/blog/2014/08/16/test-page</id>
+    <id>http://www.emergencydr.org/blog/2014/08/16/test-page</id>
     <content type="html"><![CDATA[<h3>Test page</h3>
 
 <p>Place holder for now.</p>

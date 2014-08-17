@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://CoherenceAppsLLC.github.io/emergencydr_site/sitemap.xml 
+Sitemap: http://www.emergencydr.org/sitemap.xml 
